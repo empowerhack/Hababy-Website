@@ -54,14 +54,14 @@
     <!-- Collect the nav links, forms, and other content for toggling -->
     <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
       <ul class="nav navbar-nav navbar-right">
-        <li><a href="#home" class="page-scroll">Home</a></li>
-        <li><a href="#services-section" class="page-scroll">The App</a></li>
-        <li><a href="#works-section" class="page-scroll">How it works</a></li>
-        <li><a href="#about-section" class="page-scroll">About</a></li>
-        <li><a href="#team-section" class="page-scroll">Team</a></li>
-        <li><a href="#testimonials-section" class="page-scroll">Testimonials</a></li>
-        <li><a href="#contact-section" class="page-scroll">Contact</a></li>
-        <li><a href="index_ar.html" class="navbar-brand">العربية</a></li>
+        <li><a href="#home" class="page-scroll">الصفحة الرئيسية</a></li>
+        <li><a href="#services-section" class="page-scroll">التطبيق</a></li>
+        <li><a href="#works-section" class="page-scroll">كيف يعمل</a></li>
+        <li><a href="#about-section" class="page-scroll">حول</a></li>
+        <li><a href="#team-section" class="page-scroll">الفريق</a></li>
+        <li><a href="#testimonials-section" class="page-scroll">الشهادات</a></li>
+        <li><a href="#contact-section" class="page-scroll">اتصل بنا</a></li>
+        <li><a href="index.html" class="navbar-brand">English</a></li>
       </ul>
     </div>
     <!-- /.navbar-collapse --> 
@@ -73,42 +73,41 @@
 <header class="text-center" name="home">
   <div class="intro-text">
     <h1 class="wow fadeInDown">HA<strong><span class="color">BABY</span></strong></h1>
-    <p class="wow fadeInDown">a web app for prenatal  and postnatal care for refugee women</p>
-    <a href="#works-section" class="btn btn-default btn-lg page-scroll wow fadeInUp" data-wow-delay="200ms">How it works</a> </div>
+    <p class="wow fadeInDown"هو تطبيق يعتمد على شبكة الإنترنت لمراحل ما قبل الولادة، الولادة، والرعاية ما بعد الولادة للنساء اللاجئات.</p>
+    <a href="#works-section" class="btn btn-default btn-lg page-scroll wow fadeInUp" data-wow-delay="200ms">كيف يعمل</a> </div>
 </header>
 
 <!-- Services Section -->
 <div id="services-section" class="text-center">
   <div class="container">
     <div class="section-title wow fadeInDown">
-      <h2>The <strong>App</strong></h2>
+      <h2> <strong>التطبيق</strong></h2>
       <hr>
       <div class="clearfix"></div>
-      <p>The App can be download from <a href="https://play.google.com/store/apps/details?id=com.phonegap.hababy" target="_blank">
-<img src="https://upload.wikimedia.org/wikipedia/en/thumb/7/77/Android-app-on-google-play.svg/800px-Android-app-on-google-play.svg.png" witdh="130" height="100"> </a>  <a href="HaBaby.apk" > or the beta here</a> 
+      <p>يمكن تحميل التطبيق من<a href="https://play.google.com/store/apps/details?id=com.phonegap.hababy" target="_blank">
+<img src="https://upload.wikimedia.org/wikipedia/en/thumb/7/77/Android-app-on-google-play.svg/800px-Android-app-on-google-play.svg.png" witdh="130" height="100"> </a>
  </p>
-<p>The source code is on <a href="https://github.com/empowerhack/Hababy" target="_blank">
+<p>يمكن تحميل  شفرة المصدر من<a href="https://github.com/empowerhack/Hababy" target="_blank">
 <img src="https://assets-cdn.github.com/images/modules/logos_page/GitHub-Logo.png" witdh="100" height="100"> </a>
  </p>
     </div>
     <div class="space"></div>
     <div class="row">
       <div class="col-md-3 col-sm-6 service wow fadeInUp" data-wow-delay="200ms"> <i class="fa fa-female"></i>
-        <h4><strong>Based on trimesters</strong></h4>
-        <p>General advises are given depending on the current month/trimester or pregnancy.</p>
+        <h4><strong>واستنادا إلى شهر الحمل</strong></h4>
+        <p>النصائح تعطى عموما  تبعا للشهر الحالي للحمل.</p>
       </div>
       <div class="col-md-3 col-sm-6 service wow fadeInUp" data-wow-delay="400ms"> <i class="fa fa-stethoscope"></i>
-        <h4><strong>Symptoms</strong></h4>
-        <p>Symptoms or distress can be found within the app, and actions to take (ideally
-represented as pictures)  and what to tell your doctor is suggested.</p>
+        <h4><strong>الأعراض</strong></h4>
+        <p>الاعراض يمكن العثورعليها داخل التطبيق، والإجراءات التي يتعين اتخاذها (ممثلة بشكل صور) و نقترح ايضا ماذا يجب أن تخبري الطبيب.</p>
       </div>
       <div class="col-md-3 col-sm-6 service wow fadeInUp" data-wow-delay="600ms"> <i class="fa fa-flag"></i>
-        <h4><strong>Countries</strong></h4>
-        <p>Country-dependent information can be given including the eligibility to free support and generic medicine names.</p>
+        <h4><strong>الدول</strong></h4>
+        <p>بناء على دولة التواجد, التطبيق يقدم المعلومات المتعلقة بامكانية الدعم المجاني, واسماء الادوية العامة.</p>
       </div>
       <div class="col-md-3 col-sm-6 service wow fadeInUp" data-wow-delay="800ms"> <i class="fa fa-comment"></i>
-        <h4><strong>Cooperations</strong></h4>
-        <p>Additional information can be given in a crowd-funded way.</p>
+        <h4><strong>التعاون</strong></h4>
+        <p>يمكن إعطاء معلومات إضافية بطريقة الممولة من الحشد.</p>
       </div>
     </div>
   </div>
@@ -117,16 +116,15 @@ represented as pictures)  and what to tell your doctor is suggested.</p>
 <div id="works-section" class="text-center">
   <div class="container"> <!-- Container -->
     <div class="section-title wow fadeInDown">
-      <h2>How  <strong>it works</strong></h2>
+      <h2> <strong>كيف يعمل</strong></h2>
       <hr>
       <div class="clearfix"></div>
-      <p>HABABY is a web app for prenatal, and postnatal care for refugee women. This will have specific country, symptom, and medication information. It will have information in multiple languages with an emphasis on visual communication, an anonymous message board, and the option for live chat with a health care professional as well as offline features.
-</p>
-<p> We built a smartphone app, since 80% of the refugees arriving in Germany had a smartphone. We are aware that it is
-not always the case and we are working on the SMS version for legacy phones. 
+      <p>HABABY هو تطبيق على شبكة الإنترنت لمرحلة ما قبل الولادة، الولادة، والرعاية ما بعد الولادة للنساء اللاجئات. يحتوي على  أعراض الحمل، ومعلومات عن الأدوية <br>
+وسوف تتواجد المعلومات بلغات متعددة مع التركيز على الاتصال المرئي، امكانية للدردشة المباشرة مع الرعاية الصحية المختصة وكذلك ميزات بدون اتصال.
+
 </p>
     </div>
-    <div class="categories">
+ <div class="categories">
       <ul class="cat">
         <li>
           <ol class="type">
@@ -145,8 +143,8 @@ not always the case and we are working on the SMS version for legacy phones.
           <div class="portfolio-item wow fadeInUp" data-wow-delay="200ms">
             <div class="hover-bg"> <a href="#portfolioModal1" class="portfolio-link" data-toggle="modal">
               <div class="hover-text">
-                <h4>Trimesters</h4>
-                Select in which trimester you are, and get advises 
+                <h4>الأثلاث</h4>
+               حدد فيها الثلث أنت، والحصول على المشورة
                 <div class="clearfix"></div>
                 <i class="fa fa-plus"></i> </div>
               <img src="img/portfolio/terms.jpg" class="img-responsive" alt="Project Title"> </a> </div>
@@ -156,8 +154,8 @@ not always the case and we are working on the SMS version for legacy phones.
           <div class="portfolio-item wow fadeInUp" data-wow-delay="400ms">
             <div class="hover-bg"> <a href="#portfolioModal2" class="portfolio-link" data-toggle="modal">
               <div class="hover-text">
-                <h4>Symptoms</h4>
-                Identify the advesities you are experiencing and follow instructions 
+                <h4>الأعراض</h4>
+                التعرف على المحن التي تعاني منها واتبع التعليمات
                 <div class="clearfix"></div>
                 <i class="fa fa-plus"></i> </div>
               <img src="img/portfolio/symptoms.jpg" class="img-responsive" alt="Project Title"> </a> </div>
@@ -168,8 +166,8 @@ not always the case and we are working on the SMS version for legacy phones.
           <div class="portfolio-item wow fadeInUp" data-wow-delay="1200ms">
             <div class="hover-bg"> <a href="#portfolioModal3" class="portfolio-link" data-toggle="modal">
               <div class="hover-text">
-                <h4>Country-based</h4>
-                Select the country you are and get information about what is free.
+                <h4>القطرية-</h4>
+                اختر البلد أنت والحصول على معلومات حول ما هو حر.
                 <div class="clearfix"></div>
                 <i class="fa fa-plus"></i> </div>
               <img src="img/portfolio/countries.jpg" class="img-responsive" alt="Project Title"> </a> </div>
@@ -185,102 +183,38 @@ not always the case and we are working on the SMS version for legacy phones.
 <div id="about-section">
   <div class="container">
     <div class="section-title text-center wow fadeInDown">
-      <h2><strong>Back</strong>ground</h2>
+      <h2><strong>خلفية</strong></h2>
       <hr>
       <div class="clearfix"></div>
-<p>The name came by combining the word "habibi" (sweetheart) and baby.</p>
-      <p>IDEA: We’re developing a web app for prenatal, natal, and postnatal care. This will have symptoms (ideally
-represented as pictures) and actions to take and what to tell your doctor. It will have information in multiple 
-languages, an anonymous message board, and the option for live chat with a health care professional.</p>
+<p>  وجاء اسم من خلال الجمع بين كلمة حبيبي  وbaby.</p>
+
     </div>
     <div class="row">
-      <div class="col-md-6 wow fadeInLeft"> <iframe width="560" height="315" src="https://www.youtube.com/embed/Yx4PNNoZs7g" frameborder="0" allowfullscreen></iframe> </div>
+      <div class="col-md-6 wow fadeInLeft"> <img src="img/hababy_logo.png"  width="550" height="262"  </img> </div>
       <div class="col-md-6 wow fadeInRight">
-          <h4>For refugee women and children</h4>
-          <p>“Reducing unwanted pregnancies can be life-saving, along 
+          <h4>وبالنسبة للنساء والأطفال اللاجئين</h4>
+          <p>
+نستهدف كل من اللاجئات الدائمين والمؤقتين وتحديدا من سوريا والعراق،
+في كل من لبنان، اليونان، ألمانيا، فرنسا، المملكة المتحدة، السويد، تركيا، المجر.
+ تاتي الثقة في المقام الأول داخل المجتمعات المحلية من نفس البلد.
+هذه النساء معرضات لخطر كبيرجراء المضاعفات الجسدية والنفسية المتعلقة بالحمل و
+الولادة بسبب وضعهم كلاجئات وتزداد هنا مخاطر سوء التغذية والسل، والعيوب الخلقية، وارتفاع معدل وفيات الرضع، على سبيل المثال لا الحصر.
 
-with ensuring timely access to high-quality antenatal and 
-
-intrapartum services.”
-
-We are targeting both transitionary and stationary 
-
-woman refugee populations. Specifically in Syria, Iraq, 
-
-Lebanon, Greece, Germany, France, UK, Sweden, 
-
-Turkey, Hungary. 
-
-Trust is primarily built within communities from the 
-
-same country. 
-
-These women are at incredibly high risk of physical and 
-
-mental complications relating to pregnancy and 
-
-childbirth due to their refugee status. Risk of 
-
-Malnutrition, TB, congenital birth defects, and high 
-
-IMR are heightened, to name a few. 
-
-Inconsistent NGO presence and extreme lack of access 
-
-to basic health care and accurate information. There 
-
-needs to be a source of trusted personnel.</p>
+</p>
           <div class="space"></div>
-          <h4>LACK OF ACCESS TO SAFE PREGNANCY</h4>
-          <p>One of the biggest issues facing the health of refugees is 
-
-the number of pregnant women who have unplanned 
-
-pregnancies and who do not have access to regular 
-
-antenatal care, and may deliver in unassisted facilities 
-
-whilst they are in transit. 34% Syrian households in 
-
-Lebanon with a pregnant or lactating Syrian refugee women. 
-
-Early pregnancy is also associated with increased risks such 
-
-as miscarriage, stillbirth, and maternal death; girls under 
-
-the age of 15 are five times more likely to die in pregnancy 
-
-that women in their 20s, and babies born to younger 
-
-mothers are also at greater risk. 
-
-An acute challenge is the lack of access to contraception or 
-
-maternal healthcare in the camps and a lack of knowledge 
-
-about reproductive health. As a result, birth rates in the 
-
-camps are high, and there are high rates of infant mortality 
-
-and deformity. In addition, our partners report that women 
-
-who have experienced trauma or who are living in poor 
-
-conditions are more likely to experience complications 
-
-during delivery.</p>
+     
           <div class="space"></div><div class="list-style">
             <div class="row">
               <div class="col-lg-6 col-sm-6 col-xs-12">
                 <ul>
-                  <li>Easy to use</li>
-                  <li>Multilingual</li>
+                  <li>سهل الاستخدام</li>
+                  <li>متعدد اللغات</li>
                 </ul>
               </div>
               <div class="col-lg-6 col-sm-6 col-xs-12">
                 <ul>
-                  <li>After download no need of connection</li>
-                  <li>Free</li>
+                  <li>  بعد التحميل لا حاجة للاتصال بالانترنت</li>
+                  <li>مجاني</li>
                 </ul>
               </div>
             </div>
@@ -293,7 +227,7 @@ during delivery.</p>
 <div id="team-section" class="text-center">
   <div class="container">
     <div class="section-title wow fadeInDown">
-      <h2>Meet the <strong>Team</strong></h2>
+      <h2>  <strong>قابل الفريق</strong></h2>
       <hr>
       <div class="clearfix"></div>      
     </div>
@@ -352,30 +286,26 @@ during delivery.</p>
         </div>
       </div>
        <p>   
-         Ragi Mcfadden / Science teacher + basic medical experience + arabic speaker @RagiMcFadden<br>
+         Ragi Mcfadden / Science teacher   + arabic speaker @RagiMcFadden<br>
          Leah Kenny / Reproductive & Sexual Health Research <br>
          Audrey Henkels / Database and Information Technology Knowledge</p>
     </div>
   </div>
-</div>
 <!-- Testimonials Section -->
 <div id="testimonials-section" class="text-center">
   <div class="container">
     <div class="section-title wow fadeInDown">
-      <h2>The app<strong> is currently used</strong> by</h2>
+      <h2>يستخدم التطبيق حاليا</h2>
       <hr>
     </div>
     <div class="row">
       <div class="col-md-8 col-md-offset-2">
         <div id="testimonial" class="owl-carousel owl-theme wow fadeInUp" data-wow-delay="200ms">
           <div class="item">
-            <p>We are working with <a href="https://www.doctorsoftheworld.org.uk/" target="_blank">Doctors of the world</a> to adapt the tools
-for refugees in need in UK. 
-             </p>
-          </div>
-          <div class="item">
-            <p>We are looking for feedback to improve the app and eventually deploy a pilot in Syria or other countries.</p>
-          </div>
+            
+<p> ونحن نعمل مع <a href="https://www.doctorsoftheworld.org.uk/" target="_blank"> لأطباء العالم </a> لتكييف الأدوات للاجئين المحتاجين في المملكة المتحدة.
+</p>
+                                                     
         </div>
       </div>
     </div>
@@ -386,9 +316,9 @@ for refugees in need in UK.
 <div id="contact-section" class="text-center">
   <div class="container">
     <div class="section-title wow fadeInDown">
-      <h2><strong>Contact</strong> us</h2>
+      <h2><strong>الاتصال بنا</strong></h2>
       <hr>
-      <p>The app was developed during a Hackathon. We don't have yet a specific permanent address, but feel free to use my personal contacts</p>
+ 
     </div>
     <div class="col-md-8 col-md-offset-2 wow fadeInUp" data-wow-delay="200ms">
       <div class="col-md-4"> <i class="fa fa-map-marker fa-2x"></i>
@@ -405,7 +335,7 @@ London, England, E2 7DG</p>
       <div class="clearfix"></div>
     </div>
     <div class="col-md-8 col-md-offset-2 wow fadeInUp" data-wow-delay="400ms">
-	<h3>Leave us a message</h3>
+	<h3>ترك لنا رسالة</h3>
       <form name="sentMessage" id="contactForm" novalidate>
         <div class="row">
           <div class="col-md-6">
@@ -426,7 +356,7 @@ London, England, E2 7DG</p>
           <p class="help-block text-danger"></p>
         </div>
         <div id="success"></div>
-        <button type="submit" class="btn btn-default">Send Message</button>
+        <button type="submit" class="btn btn-default">إرسال رسالة</button>
       </form>
       <div class="social">
         <ul>
@@ -463,11 +393,14 @@ London, England, E2 7DG</p>
         <div class="col-lg-8 col-lg-offset-2">
           <div class="modal-body"> 
             <!-- Project Details Go Here -->
-            <h2>Trimesters</h2>
-            <p class="item-intro">Select in which trimester you are, and get advises.</p>
-            <img class="img-responsive img-centered" src="img/portfolio/terms.jpg" alt="">
-            
-   
+            <h2>Project Title</h2>
+            <p class="item-intro">Lorem ipsum dolor sit amet consectetur.</p>
+            <img class="img-responsive img-centered" src="img/portfolio/preview.jpg" alt="">
+            <p>Lorem ipsum dolor sit amet, sea essent iisque iudicabit te, pro no justo delicata inimicus, et oblique docendi laboramus eum. Ei minim fabulas pertinacia pro, graeco urbanitas reformidans quo id. Error congue tacimates ei vis, facer facete ius cu, audiam prodesset pri ut. Id semper fuisset vel, has dolorum menandri eu.</p>
+            <ul class="list-inline">
+              <li><strong>Client</strong>: John Doe</li>
+              <li><strong>Category</strong>: Web Design</li>
+            </ul>
             <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Close Project</button>
           </div>
         </div>
@@ -488,10 +421,14 @@ London, England, E2 7DG</p>
         <div class="col-lg-8 col-lg-offset-2">
           <div class="modal-body"> 
             <!-- Project Details Go Here -->
-            <h2>Symptoms</h2>
-            <p class="item-intro">Identify the advesities you are experiencing and follow instructions.</p>
-            <img class="img-responsive img-centered" src="img/portfolio/symptoms.jpg" alt="">
-           
+            <h2>Project Title</h2>
+            <p class="item-intro">Lorem ipsum dolor sit amet consectetur.</p>
+            <img class="img-responsive img-centered" src="img/portfolio/preview.jpg" alt="">
+            <p>Lorem ipsum dolor sit amet, sea essent iisque iudicabit te, pro no justo delicata inimicus, et oblique docendi laboramus eum. Ei minim fabulas pertinacia pro, graeco urbanitas reformidans quo id. Error congue tacimates ei vis, facer facete ius cu, audiam prodesset pri ut. Id semper fuisset vel, has dolorum menandri eu.</p>
+            <ul class="list-inline">
+              <li><strong>Client</strong>: John Doe</li>
+              <li><strong>Category</strong>: Web Design</li>
+            </ul>
             <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Close Project</button>
           </div>
         </div>
@@ -512,10 +449,14 @@ London, England, E2 7DG</p>
         <div class="col-lg-8 col-lg-offset-2">
           <div class="modal-body"> 
             <!-- Project Details Go Here -->
-            <h2>Countries</h2>
-            <p class="item-intro">Select the country you are and get information about what is free.</p>
-            <img class="img-responsive img-centered" src="img/portfolio/countries.jpg" alt="">
-             
+            <h2>Project Title</h2>
+            <p class="item-intro">Lorem ipsum dolor sit amet consectetur.</p>
+            <img class="img-responsive img-centered" src="img/portfolio/preview.jpg" alt="">
+            <p>Lorem ipsum dolor sit amet, sea essent iisque iudicabit te, pro no justo delicata inimicus, et oblique docendi laboramus eum. Ei minim fabulas pertinacia pro, graeco urbanitas reformidans quo id. Error congue tacimates ei vis, facer facete ius cu, audiam prodesset pri ut. Id semper fuisset vel, has dolorum menandri eu.</p>
+            <ul class="list-inline">
+              <li><strong>Client</strong>: John Doe</li>
+              <li><strong>Category</strong>: Web Design</li>
+            </ul>
             <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Close Project</button>
           </div>
         </div>
@@ -523,7 +464,147 @@ London, England, E2 7DG</p>
     </div>
   </div>
 </div>
- 
+<!-- Portfolio Modal 4 -->
+<div class="portfolio-modal modal fade" id="portfolioModal4" tabindex="-1" role="dialog" aria-hidden="true">
+  <div class="modal-content">
+    <div class="close-modal" data-dismiss="modal">
+      <div class="lr">
+        <div class="rl"> </div>
+      </div>
+    </div>
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-8 col-lg-offset-2">
+          <div class="modal-body"> 
+            <!-- Project Details Go Here -->
+            <h2>Project Title</h2>
+            <p class="item-intro">Lorem ipsum dolor sit amet consectetur.</p>
+            <img class="img-responsive img-centered" src="img/portfolio/preview.jpg" alt="">
+            <p>Lorem ipsum dolor sit amet, sea essent iisque iudicabit te, pro no justo delicata inimicus, et oblique docendi laboramus eum. Ei minim fabulas pertinacia pro, graeco urbanitas reformidans quo id. Error congue tacimates ei vis, facer facete ius cu, audiam prodesset pri ut. Id semper fuisset vel, has dolorum menandri eu.</p>
+            <ul class="list-inline">
+              <li><strong>Client</strong>: John Doe</li>
+              <li><strong>Category</strong>: Web Design</li>
+            </ul>
+            <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Close Project</button>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- Portfolio Modal 5 -->
+<div class="portfolio-modal modal fade" id="portfolioModal5" tabindex="-1" role="dialog" aria-hidden="true">
+  <div class="modal-content">
+    <div class="close-modal" data-dismiss="modal">
+      <div class="lr">
+        <div class="rl"> </div>
+      </div>
+    </div>
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-8 col-lg-offset-2">
+          <div class="modal-body"> 
+            <!-- Project Details Go Here -->
+            <h2>Project Title</h2>
+            <p class="item-intro">Lorem ipsum dolor sit amet consectetur.</p>
+            <img class="img-responsive img-centered" src="img/portfolio/preview.jpg" alt="">
+            <p>Lorem ipsum dolor sit amet, sea essent iisque iudicabit te, pro no justo delicata inimicus, et oblique docendi laboramus eum. Ei minim fabulas pertinacia pro, graeco urbanitas reformidans quo id. Error congue tacimates ei vis, facer facete ius cu, audiam prodesset pri ut. Id semper fuisset vel, has dolorum menandri eu.</p>
+            <ul class="list-inline">
+              <li><strong>Client</strong>: John Doe</li>
+              <li><strong>Category</strong>: Web Design</li>
+            </ul>
+            <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Close Project</button>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- Portfolio Modal 6 -->
+<div class="portfolio-modal modal fade" id="portfolioModal6" tabindex="-1" role="dialog" aria-hidden="true">
+  <div class="modal-content">
+    <div class="close-modal" data-dismiss="modal">
+      <div class="lr">
+        <div class="rl"> </div>
+      </div>
+    </div>
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-8 col-lg-offset-2">
+          <div class="modal-body"> 
+            <!-- Project Details Go Here -->
+            <h2>Project Title</h2>
+            <p class="item-intro">Lorem ipsum dolor sit amet consectetur.</p>
+            <img class="img-responsive img-centered" src="img/portfolio/preview.jpg" alt="">
+            <p>Lorem ipsum dolor sit amet, sea essent iisque iudicabit te, pro no justo delicata inimicus, et oblique docendi laboramus eum. Ei minim fabulas pertinacia pro, graeco urbanitas reformidans quo id. Error congue tacimates ei vis, facer facete ius cu, audiam prodesset pri ut. Id semper fuisset vel, has dolorum menandri eu.</p>
+            <ul class="list-inline">
+              <li><strong>Client</strong>: John Doe</li>
+              <li><strong>Category</strong>: Web Design</li>
+            </ul>
+            <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Close Project</button>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- Portfolio Modal 7 -->
+<div class="portfolio-modal modal fade" id="portfolioModal7" tabindex="-1" role="dialog" aria-hidden="true">
+  <div class="modal-content">
+    <div class="close-modal" data-dismiss="modal">
+      <div class="lr">
+        <div class="rl"> </div>
+      </div>
+    </div>
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-8 col-lg-offset-2">
+          <div class="modal-body"> 
+            <!-- Project Details Go Here -->
+            <h2>Project Title</h2>
+            <p class="item-intro">Lorem ipsum dolor sit amet consectetur.</p>
+            <img class="img-responsive img-centered" src="img/portfolio/preview.jpg" alt="">
+            <p>Lorem ipsum dolor sit amet, sea essent iisque iudicabit te, pro no justo delicata inimicus, et oblique docendi laboramus eum. Ei minim fabulas pertinacia pro, graeco urbanitas reformidans quo id. Error congue tacimates ei vis, facer facete ius cu, audiam prodesset pri ut. Id semper fuisset vel, has dolorum menandri eu.</p>
+            <ul class="list-inline">
+              <li><strong>Client</strong>: John Doe</li>
+              <li><strong>Category</strong>: Web Design</li>
+            </ul>
+            <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Close Project</button>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- Portfolio Modal 8 -->
+<div class="portfolio-modal modal fade" id="portfolioModal8" tabindex="-1" role="dialog" aria-hidden="true">
+  <div class="modal-content">
+    <div class="close-modal" data-dismiss="modal">
+      <div class="lr">
+        <div class="rl"> </div>
+      </div>
+    </div>
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-8 col-lg-offset-2">
+          <div class="modal-body"> 
+            <!-- Project Details Go Here -->
+            <h2>Project Title</h2>
+            <p class="item-intro">Lorem ipsum dolor sit amet consectetur.</p>
+            <img class="img-responsive img-centered" src="img/portfolio/preview.jpg" alt="">
+            <p>Lorem ipsum dolor sit amet, sea essent iisque iudicabit te, pro no justo delicata inimicus, et oblique docendi laboramus eum. Ei minim fabulas pertinacia pro, graeco urbanitas reformidans quo id. Error congue tacimates ei vis, facer facete ius cu, audiam prodesset pri ut. Id semper fuisset vel, has dolorum menandri eu.</p>
+            <ul class="list-inline">
+              <li><strong>Client</strong>: John Doe</li>
+              <li><strong>Category</strong>: Web Design</li>
+            </ul>
+            <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Close Project</button>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
 
 <!-- jQuery (necessary for Bootstrap's JavaScript plugins) --> 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script> 
